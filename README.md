@@ -1,0 +1,4 @@
+# Data-Visualization-Home-field-advantage-project-
+
+As climate change continues to take its toll, scientists and scholars have argued for the case of protecting and advocating for the planet through conducting extensive research on the effects, causes, and outcomes of climate change. In result, a plethora of databases exist that encapsulate how the planet is continuing to decline by measuring toxic air pollution levels, rising temperatures, and sea levels.
+The visualizations are based on the Climate Related Disasters Frequency database by the Center for Research on the Epidemiology of Disasters (CRED) which measures the frequency of climate disasters by country from the 1980’s until 2020. There are 201 countries from both the Global North and Global South and 6 different types of disasters listed. In the analysis, I create visualizations to show the frequency of disasters by decade and country.
